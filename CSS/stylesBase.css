@@ -68,15 +68,6 @@ body {
 
 /* Formulario */
 
-form {
-  max-width: 400px;
-  margin: auto;
-  padding: 20px;
-  border: 1px solid #ccc;
-  color: white; /* Cor do texto padrão */
-  border-radius: 1px;
-}
-
 input,
 textarea {
   width: 95%;
