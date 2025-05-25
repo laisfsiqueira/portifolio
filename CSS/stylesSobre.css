@@ -74,11 +74,11 @@ body {
 }
 
 .minhaimagem {
-  width: 450px;
-  height: 450px;
+  width: 420px;
+  height: 420px;
   border-radius: 50%;
   box-shadow: 10px 10px 20px;
-  margin-top: 6px;
+  margin-top: 5px;
 }
 
 /* Footer = Rodapé */
