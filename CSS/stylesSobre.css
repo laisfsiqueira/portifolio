@@ -31,7 +31,7 @@ a {
 
 .containerFilhoUm {
   font-family: "./Fontes/Homemade_Apple";
-  font-size: 20px;
+  font-size: 30px;
   display: flex;
   width: 50%;
   justify-content: center;
@@ -40,7 +40,7 @@ a {
 
 .containerFilhoDois {
   font-family: "./Fontes/Homemade_Apple";
-  font-size: 16px;
+  font-size: 20px;
   display: flex;
   width: 50%;
   justify-content: center;
@@ -50,21 +50,21 @@ a {
 .container {
   display: flex;
   gap: 100px;
-  margin-top: 60px;
+  margin-top: 50px;
 }
 
 img {
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  margin-top: 50px;
+  margin-top: 35px;
   background-position: center;
  }
 
 /* Parágrafo do Sobre */
 
 body {
-  font-family: "./Fontes/Homemade_Apple";
+  font-family: "sofia", sans-serif;
   margin: 10px;
   color: #330101;
   background-color: #a06b6b;
@@ -76,11 +76,11 @@ body {
 }
 
 .texto {
-  font-family: "./Fontes/Homemade_Apple";
+  font-family: "Helvetica", sans-serif; 
   height: auto; /* manter proporção */
   text-align: justify;
   text-justify: inter-word;
-  margin-top: 20px;
+  margin-top: 15px;
   font-size: larger;
   font-weight: bold;
 }
@@ -90,12 +90,13 @@ body {
   height: 420px;
   border-radius: 50%;
   box-shadow: 10px 10px 20px;
-  margin-top: -50px;
+  margin-top: -30px;
 }
 
 /* Footer = Rodapé */
 
 .centralizador {
+  font-family: "Helvetica", sans-serif; 
   display: flex;
   align-items: center;
   justify-content: center;

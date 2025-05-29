@@ -31,7 +31,7 @@ a {
 
 .containerFilhoUm {
   font-family: "./Fontes/Homemade_Apple";
-  font-size: 20px;
+  font-size: 30px;
   display: flex;
   width: 50%;
   justify-content: center;
@@ -39,7 +39,7 @@ a {
 }
 
 .containerFilhoDois {
-  font-size: 16px;
+  font-size: 20px;
   display: flex;
   width: 50%;
   justify-content: center;
@@ -69,6 +69,7 @@ body {
 /* Footer = Rodapé */
 
 .centralizador {
+  font-family: "Helvetica", sans-serif; 
   display: flex;
   align-items: center;
   justify-content: center;
